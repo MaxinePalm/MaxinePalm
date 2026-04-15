@@ -1,5 +1,5 @@
 # 💫 About Me:
-Going into my 3rd year in Software Development!<br>I'm currently learning Arduino and Android Studio.<br>Fun Fact my cats name is Flash.
+In my 3rd year in Software Development!<br>I'm currently learning Arduino and Android Studio.<br>Fun Fact my cats name is Flash.
 
 
 ## 🌐 Socials:
