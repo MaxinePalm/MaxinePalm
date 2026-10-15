@@ -48,47 +48,60 @@ I'm a third-year Software Development student who likes building things that wor
 
 <br>
 
-### 🔐 [HustleHub+](https://github.com/MaxinePalm/HustleHub) - Secure Freelance Marketplace
+### 💧 [SmartHydro](https://github.com/EMECPE/insy7315-2026-wil-kylelotter) - Offline-First Hydroponics and Fodder Monitoring
 
-> A freelance marketplace built with security first, starting with a hardened authentication backend.
+> An IoT monitoring and control system for crop and livestock fodder growing in remote, water-scarce environments, built for Emeris and its rural outreach work in Namibia. Team project with six developers. [Live web app](https://smarthydro-hyhxfuhcdne7cxhx.southafricanorth-01.azurewebsites.net)
 
-- 🧱 Full MERN stack architecture
-- 🛡️ Secure authentication flow designed around application security best practice
+- 🌱 **Monitoring and control:** live pH, EC, temperature, humidity, light and water level, with remote control of pumps, fans and dosing over SignalR
+- 🚨 **Smart alerts:** a rule engine raises Warning and Critical alerts against each structure's own safe ranges
+- 📴 **Offline first:** boxes pair over their own Wi-Fi hotspot and the Android app caches everything in Room for use without internet
+- 🤖 **Edge ML:** Random Forest classifiers exported to C++ and running on the ESP32 boxes, with a 15 minute dosing lockout and manual override so the farmer stays in control
+- 🔐 **Security:** PBKDF2 hashing, two-step sign-in with emailed codes, role-based access (Admin, Operator, Worker), rate limiting and a full CI/CD pipeline to Azure
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core_10-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Arduino](https://img.shields.io/badge/ESP32_Firmware-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+
+<br>
+
+### 🔐 [HustleHub+](https://github.com/EMECPE/insy7314-2026-poe-kylelotter) - Secure Freelance Marketplace
+
+> A full-stack MERN freelance marketplace where freelancers list gigs, clients book them, and every booking creates a simulated transaction. Built secure-by-design as a four-person team project. My part: frontend dashboards, role-based route guards, input sanitisation, member profiles and frontend testing.
+
+- 🔑 **Auth:** email-verified registration and password reset with hashed one-time codes, JWT sessions, and token revocation on password change
+- 🛡️ **Access control:** role-based access (Client, Freelancer, Admin) plus per-record ownership checks on the API
+- 🧼 **Hardening:** global sanitisation, rate limiting, Helmet security headers, CSP with violation reporting, and local HTTPS
+- 📊 **Dashboards:** income charts and tax estimates for freelancers, spending for clients, platform overview for admins
+- 🧪 **Tested:** 49 Postman requests (82 assertions) run through Newman, plus 105 Vitest tests across 13 files
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
 <br>
 
-### 🌐 [Smart-X IoT Mesh](https://github.com/MaxinePalm/Smart-X) - IoT Ecosystem Simulation
+### 🌐 [Smart-X IoT Mesh Gateway](https://github.com/EMECPE/prog7312-2026-poe-maxinepalm) - Real-Time Telemetry Engine
 
-> A C# simulation of a smart IoT mesh, built to show core data structure and language fundamentals from first principles.
+> A simulated ESP32 telemetry gateway: a React SPA and a .NET console client both talk to an ASP.NET Core Minimal API that queues, classifies and stores sensor readings, with a command stream, Undo and a predictive suggestion engine.
 
-- 🔗 Hand-built generic doubly linked list (`BoundedLinkedList<T>`)
-- ➕ Operator overloading, jagged arrays and recursion
-- 🖥️ ASP.NET Core backend with a React and Vite front end
+- 📬 **Queues and stacks:** a FIFO queue with a priority lane so critical readings jump the line, and a command stack that powers Undo
+- 🔑 **Lookups and sets:** O(1) device lookup, time-ordered history logs, and hash sets that stop duplicate error alerts
+- 🧬 **Core C#:** generic `TelemetryPacket<T>`, operator overloading, jagged-array batching, a hand-built `BoundedLinkedList<T>` and recursive deployment validation
+- 🔮 **Prediction engine:** co-occurrence counting, a Markov chain and linear regression suggest actions and warn before a sensor goes critical
+- 🐳 **Dockerised** with SQL Server, Swagger docs for every endpoint, and a live-feed device simulator
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core_10-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-<br>
-
-### 💧 [SmartHydro](https://github.com/MaxinePalm/Group_1_SmartHydro_MVC) - Site and Worker Management
-
-> A group project: an MVC web app backed by a separate REST API for managing sites, workers and invitations.
-
-- 🏗️ Clean split between the MVC front end and the API
-- 👥 Admin tooling for sites, worker access and invitations
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-<sub>Swap in your exact repo names, and delete any project you don't want public.</sub>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 
 <br>
 
@@ -110,7 +123,7 @@ I'm a third-year Software Development student who likes building things that wor
 
 **Databases and Cloud**
 
-<img src="https://skillicons.dev/icons?i=azure,mysql,mongodb,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=azure,postgres,mysql,mongodb,firebase&theme=dark" />
 
 **Design and 3D**
 
