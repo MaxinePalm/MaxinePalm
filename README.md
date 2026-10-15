@@ -19,14 +19,32 @@
 
 I'm a third-year Software Development student who builds things that work, then makes them secure. My projects sit where application security, IoT hardware and mobile meet.
 
-| | |
-|---|---|
-| 🎓 **Year** | 3rd year Software Development student |
-| 🎯 **Focus** | Application security, IoT and Android |
-| 💻 **Languages** | C#, Kotlin, TypeScript, Java, Python |
-| 📚 **Learning** | Arduino and embedded systems |
-| 💬 **Ask me about** | .NET, IoT and security |
-| 🐱 **Fun fact** | My cat is called Flash |
+<table>
+  <tr>
+    <td>🎓 <b>Year</b></td>
+    <td>3rd year Software Development student</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Focus</b></td>
+    <td>Application security, IoT and Android</td>
+  </tr>
+  <tr>
+    <td>💻 <b>Languages</b></td>
+    <td>C#, Kotlin, TypeScript, Java, Python</td>
+  </tr>
+  <tr>
+    <td>📚 <b>Learning</b></td>
+    <td>Arduino and embedded systems</td>
+  </tr>
+  <tr>
+    <td>💬 <b>Ask me about</b></td>
+    <td>.NET, IoT and security</td>
+  </tr>
+  <tr>
+    <td>🐱 <b>Fun fact</b></td>
+    <td>My cat is called Flash</td>
+  </tr>
+</table>
 
 ---
 
