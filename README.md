@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6E1,100:B983FF&height=240&section=header&text=Maxine%20Palm&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Secure%20Apps%20%2B%20IoT%20%2B%20Android&descAlignY=60&descSize=20&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=B983FF&center=true&vCenter=true&width=650&lines=Building+secure+full-stack+applications;Wiring+ESP32+sensors+to+the+cloud;C%23+%2F+.NET+%7C+Kotlin+%7C+React+%7C+Node.js;Learning+Arduino+and+embedded+systems;Cat+mom+to+Flash" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=B983FF&center=true&vCenter=true&width=650&height=40&repeat=true&lines=Building+secure+full-stack+applications;Wiring+ESP32+sensors+to+the+cloud;C%23+%2F+.NET+%7C+Kotlin+%7C+React+%7C+Node.js;Learning+Arduino+and+embedded+systems;Cat+mom+to+Flash" alt="Typing SVG" />
 
-<br><br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxine-palm-4751a530b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxinepalm450@gmail.com)
@@ -19,24 +19,14 @@
 
 I'm a third-year Software Development student who builds things that work, then makes them secure. My projects sit where application security, IoT hardware and mobile meet.
 
-- 🔐 Focused on secure-by-design APIs and authentication
-- 📡 Connecting ESP32 sensors to cloud backends
-- 📱 Building native Android apps in Kotlin
-- 🧱 Full stack with ASP.NET Core, React and Node.js
-- 🔭 Currently learning Arduino and embedded systems
-- 🐱 Cat mom to Flash
-
-```ts
-const maxine = {
-  role: "Software Development Student",
-  year: 3,
-  focus: ["Application Security", "IoT", "Android"],
-  languages: ["C#", "Kotlin", "TypeScript", "Java", "Python"],
-  currentlyLearning: ["Arduino", "Embedded Systems"],
-  askMeAbout: [".NET", "IoT", "Security"],
-  funFact: "My cat is called Flash",
-};
-```
+| | |
+|---|---|
+| 🎓 **Year** | 3rd year Software Development student |
+| 🎯 **Focus** | Application security, IoT and Android |
+| 💻 **Languages** | C#, Kotlin, TypeScript, Java, Python |
+| 📚 **Learning** | Arduino and embedded systems |
+| 💬 **Ask me about** | .NET, IoT and security |
+| 🐱 **Fun fact** | My cat is called Flash |
 
 ---
 
