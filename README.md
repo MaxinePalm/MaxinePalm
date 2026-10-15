@@ -19,6 +19,8 @@
 
 I'm a third-year Software Development student who builds things that work, then makes them secure. My projects sit where application security, IoT hardware and mobile meet.
 
+<div align="center">
+
 <table>
   <tr>
     <td>🎓 <b>Year</b></td>
@@ -45,6 +47,8 @@ I'm a third-year Software Development student who builds things that work, then 
     <td>My cat is called Flash</td>
   </tr>
 </table>
+
+</div>
 
 ---
 
