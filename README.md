@@ -137,17 +137,6 @@ I'm a third-year Software Development student who likes building things that wor
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MaxinePalm&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=B983FF&text_color=ffffff"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxinePalm&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=ffffff"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=MaxinePalm&theme=radical&hide_border=true&background=0D1117&ring=FF69B4&fire=B983FF&currStreakLabel=FF69B4"/>
-
-</div>
-
 <br>
 
 ## 🌱 Currently
