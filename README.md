@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6E1,100:B983FF&height=240&section=header&text=Maxine%20Palm&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Secure%20Apps%20%2B%20IoT%20%2B%20Android&descAlignY=60&descSize=20&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6E1,100:B983FF&height=240&section=header&text=Maxine%20Palm&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Secure%20Apps%20%2B%20IoT%20%2B%20Android&descAlignY=60&descSize=20&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=B983FF&center=true&vCenter=true&width=650&height=40&repeat=true&lines=Building+secure+full-stack+applications;Wiring+ESP32+sensors+to+the+cloud;C%23+%2F+.NET+%7C+Kotlin+%7C+React+%7C+Node.js;Learning+Arduino+and+embedded+systems;Cat+mom+to+Flash" alt="Typing SVG" />
 
