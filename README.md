@@ -24,7 +24,7 @@ I'm a BCIS graduate in Software Engineering who builds things that work, then ma
 <table>
   <tr>
     <td>🎓 <b>Year</b></td>
-    <td>3rd year Software Development student</td>
+    <td>BCIS graduate</td>
   </tr>
   <tr>
     <td>🎯 <b>Focus</b></td>
