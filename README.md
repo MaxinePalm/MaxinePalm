@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-I'm a third-year Software Development student who builds things that work, then makes them secure. My projects sit where application security, IoT hardware and mobile meet.
+I'm a BCIS graduate in Software Engineering who builds things that work, then makes them secure. My projects sit where application security, IoT hardware and mobile meet.
 
 <div align="center">
 
