@@ -36,7 +36,7 @@ I'm a BCIS graduate in Application Development (Top 10 Achiever) from Emeris. I 
 
 An IoT monitoring and control system for growing crops and fodder in remote, water-scarce areas, built for Emeris and its rural outreach work in Namibia. Team project with six developers.
 
-**My part:** [one or two sentences on exactly what you built, e.g. the Kotlin app screens, API endpoints or ESP32 firmware]
+**My part:** I built the online MVC web section and its connection to LoRa, and implemented role-based authentication. I also fixed major API endpoints used by both the MVC web app and the Android app.
 
 - **Control:** live pH, EC, temperature, humidity, light and water level, with remote control of pumps, fans and dosing over SignalR
 - **Offline first:** sensor boxes pair over their own Wi-Fi hotspot and the Android app caches data in Room
@@ -53,7 +53,7 @@ An IoT monitoring and control system for growing crops and fodder in remote, wat
 
 An IoT tele-cardiology platform that captures ECG and heart-rate data from a wearable sensor and streams it to a clinical Android app in real time. Co-authored with [Cameron van Heerden](https://github.com/EMECPE).
 
-**My part:** [one or two sentences on what you built]
+**My part:** I built the front end of the Kotlin app and its role-based authentication, and linked the app to the ESP32 device that monitors the heart.
 
 - **Hardware:** AD8232 ECG sensor on an ESP32-C3, sampling at 250 Hz with Pan-Tompkins R-peak detection for live BPM
 - **Backend:** ASP.NET Core REST API on Azure with Firebase Auth, Realtime Database and push alerts
