@@ -10,7 +10,7 @@ Secure full-stack apps, IoT hardware and Android
 **BCIS graduate. Available from 1 December 2026 and open to junior software engineer roles.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7DB9E8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxine-palm-4751a530b/)
-[![Email](https://img.shields.io/badge/Email-F4A6C6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxinepalm450@gmail.com)
+[![Email](https://img.shields.io/badge/Email-F4A6C6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxinepalmdev@gmail.com)
 
 </div>
 
