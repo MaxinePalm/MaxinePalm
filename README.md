@@ -110,7 +110,7 @@ A simulated ESP32 telemetry gateway. A React app and a .NET console client talk 
 
 I'm looking for a junior software engineer role where I can build secure, useful products that help people. If that sounds like your team, I'd love to talk.
 
-[LinkedIn](https://www.linkedin.com/in/maxine-palm-4751a530b/) · [maxinepalm450@gmail.com](mailto:maxinepalm450@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/maxine-palm-4751a530b/) · [maxinepalm450@gmail.com](mailto:maxinepalmdev@gmail.com)
 
 <br>
 
